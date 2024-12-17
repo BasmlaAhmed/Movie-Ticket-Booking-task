@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # movie_ticket_app_basmla
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Movie-Ticket-Booking-task
+>>>>>>> 8cc85b62acc61d7590c22b4da13d1f2f8e46d32e
